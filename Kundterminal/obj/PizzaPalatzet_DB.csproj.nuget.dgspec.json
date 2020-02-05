@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\simon\\source\\repos\\Chef\\Chef.csproj": {}
+    "C:\\Users\\simon\\source\\repos\\PizzaPalatzet_DB\\PizzaPalatzet_DB\\PizzaPalatzet_DB.csproj": {}
   },
   "projects": {
-    "C:\\Users\\simon\\source\\repos\\Chef\\Chef.csproj": {
+    "C:\\Users\\simon\\source\\repos\\PizzaPalatzet_DB\\PizzaPalatzet_DB\\PizzaPalatzet_DB.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\simon\\source\\repos\\Chef\\Chef.csproj",
-        "projectName": "Chef",
-        "projectPath": "C:\\Users\\simon\\source\\repos\\Chef\\Chef.csproj",
+        "projectUniqueName": "C:\\Users\\simon\\source\\repos\\PizzaPalatzet_DB\\PizzaPalatzet_DB\\PizzaPalatzet_DB.csproj",
+        "projectName": "PizzaPalatzet_DB",
+        "projectPath": "C:\\Users\\simon\\source\\repos\\PizzaPalatzet_DB\\PizzaPalatzet_DB\\PizzaPalatzet_DB.csproj",
         "packagesPath": "C:\\Users\\simon\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\simon\\source\\repos\\Chef\\obj\\",
+        "outputPath": "C:\\Users\\simon\\source\\repos\\PizzaPalatzet_DB\\PizzaPalatzet_DB\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -21,14 +21,14 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.0"
+          "netcoreapp3.1"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.0": {
+          "netcoreapp3.1": {
             "projectReferences": {}
           }
         },
@@ -39,7 +39,7 @@
         }
       },
       "frameworks": {
-        "netcoreapp3.0": {
+        "netcoreapp3.1": {
           "imports": [
             "net461",
             "net462",
@@ -50,16 +50,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[3.0.1, 3.0.1]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[3.0.2, 3.0.2]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
