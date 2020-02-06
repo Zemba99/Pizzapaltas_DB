@@ -1,0 +1,11 @@
+C:\Users\marcu\source\repos\Lib\MsRepository\bin\Debug\netcoreapp3.1\MsRepository.deps.json
+C:\Users\marcu\source\repos\Lib\MsRepository\bin\Debug\netcoreapp3.1\MsRepository.dll
+C:\Users\marcu\source\repos\Lib\MsRepository\obj\Debug\netcoreapp3.1\MsRepository.AssemblyInfoInputs.cache
+C:\Users\marcu\source\repos\Lib\MsRepository\obj\Debug\netcoreapp3.1\MsRepository.AssemblyInfo.cs
+C:\Users\marcu\source\repos\Lib\MsRepository\bin\Debug\netcoreapp3.1\TypeLib.dll
+C:\Users\marcu\source\repos\Lib\MsRepository\obj\Debug\netcoreapp3.1\MsRepository.csprojAssemblyReference.cache
+C:\Users\marcu\source\repos\Lib\MsRepository\bin\Debug\netcoreapp3.1\MsRepository.pdb
+C:\Users\marcu\source\repos\Lib\MsRepository\bin\Debug\netcoreapp3.1\TypeLib.pdb
+C:\Users\marcu\source\repos\Lib\MsRepository\obj\Debug\netcoreapp3.1\MsRepository.csproj.CopyComplete
+C:\Users\marcu\source\repos\Lib\MsRepository\obj\Debug\netcoreapp3.1\MsRepository.dll
+C:\Users\marcu\source\repos\Lib\MsRepository\obj\Debug\netcoreapp3.1\MsRepository.pdb

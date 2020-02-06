@@ -1,0 +1,11 @@
+C:\Users\marcu\source\repos\Lib\MsRepository\bin\Debug\netstandard2.0\MsRepository.deps.json
+C:\Users\marcu\source\repos\Lib\MsRepository\bin\Debug\netstandard2.0\MsRepository.dll
+C:\Users\marcu\source\repos\Lib\MsRepository\bin\Debug\netstandard2.0\MsRepository.pdb
+C:\Users\marcu\source\repos\Lib\MsRepository\bin\Debug\netstandard2.0\TypeLib.dll
+C:\Users\marcu\source\repos\Lib\MsRepository\bin\Debug\netstandard2.0\TypeLib.pdb
+C:\Users\marcu\source\repos\Lib\MsRepository\obj\Debug\netstandard2.0\MsRepository.csprojAssemblyReference.cache
+C:\Users\marcu\source\repos\Lib\MsRepository\obj\Debug\netstandard2.0\MsRepository.AssemblyInfoInputs.cache
+C:\Users\marcu\source\repos\Lib\MsRepository\obj\Debug\netstandard2.0\MsRepository.AssemblyInfo.cs
+C:\Users\marcu\source\repos\Lib\MsRepository\obj\Debug\netstandard2.0\MsRepository.csproj.CopyComplete
+C:\Users\marcu\source\repos\Lib\MsRepository\obj\Debug\netstandard2.0\MsRepository.dll
+C:\Users\marcu\source\repos\Lib\MsRepository\obj\Debug\netstandard2.0\MsRepository.pdb

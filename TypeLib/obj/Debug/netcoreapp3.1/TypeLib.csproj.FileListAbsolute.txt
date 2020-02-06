@@ -1,0 +1,7 @@
+C:\Users\marcu\source\repos\Lib\TypeLib\bin\Debug\netcoreapp3.1\TypeLib.deps.json
+C:\Users\marcu\source\repos\Lib\TypeLib\bin\Debug\netcoreapp3.1\TypeLib.dll
+C:\Users\marcu\source\repos\Lib\TypeLib\obj\Debug\netcoreapp3.1\TypeLib.AssemblyInfoInputs.cache
+C:\Users\marcu\source\repos\Lib\TypeLib\obj\Debug\netcoreapp3.1\TypeLib.AssemblyInfo.cs
+C:\Users\marcu\source\repos\Lib\TypeLib\bin\Debug\netcoreapp3.1\TypeLib.pdb
+C:\Users\marcu\source\repos\Lib\TypeLib\obj\Debug\netcoreapp3.1\TypeLib.dll
+C:\Users\marcu\source\repos\Lib\TypeLib\obj\Debug\netcoreapp3.1\TypeLib.pdb
