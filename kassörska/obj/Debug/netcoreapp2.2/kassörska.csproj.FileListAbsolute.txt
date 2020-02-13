@@ -1,0 +1,15 @@
+E:\kassörska (skärmprogrammet)\kassörska\bin\Debug\netcoreapp2.2\kassörska.deps.json
+E:\kassörska (skärmprogrammet)\kassörska\bin\Debug\netcoreapp2.2\kassörska.runtimeconfig.json
+E:\kassörska (skärmprogrammet)\kassörska\bin\Debug\netcoreapp2.2\kassörska.runtimeconfig.dev.json
+E:\kassörska (skärmprogrammet)\kassörska\bin\Debug\netcoreapp2.2\kassörska.dll
+E:\kassörska (skärmprogrammet)\kassörska\bin\Debug\netcoreapp2.2\kassörska.pdb
+E:\kassörska (skärmprogrammet)\kassörska\bin\Debug\netcoreapp2.2\MsRepository.dll
+E:\kassörska (skärmprogrammet)\kassörska\bin\Debug\netcoreapp2.2\TypeLib.dll
+E:\kassörska (skärmprogrammet)\kassörska\bin\Debug\netcoreapp2.2\MsRepository.pdb
+E:\kassörska (skärmprogrammet)\kassörska\bin\Debug\netcoreapp2.2\TypeLib.pdb
+E:\kassörska (skärmprogrammet)\kassörska\obj\Debug\netcoreapp2.2\kassörska.csprojAssemblyReference.cache
+E:\kassörska (skärmprogrammet)\kassörska\obj\Debug\netcoreapp2.2\kassörska.AssemblyInfoInputs.cache
+E:\kassörska (skärmprogrammet)\kassörska\obj\Debug\netcoreapp2.2\kassörska.AssemblyInfo.cs
+E:\kassörska (skärmprogrammet)\kassörska\obj\Debug\netcoreapp2.2\kassörska.csproj.CopyComplete
+E:\kassörska (skärmprogrammet)\kassörska\obj\Debug\netcoreapp2.2\kassörska.dll
+E:\kassörska (skärmprogrammet)\kassörska\obj\Debug\netcoreapp2.2\kassörska.pdb

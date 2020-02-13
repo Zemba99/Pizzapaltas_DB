@@ -1,0 +1,23 @@
+E:\kassörska (skärmprogrammet)\TypeLib\bin\Debug\netstandard2.1\TypeLib.deps.json
+E:\kassörska (skärmprogrammet)\TypeLib\bin\Debug\netstandard2.1\TypeLib.dll
+E:\kassörska (skärmprogrammet)\TypeLib\bin\Debug\netstandard2.1\TypeLib.pdb
+E:\kassörska (skärmprogrammet)\TypeLib\obj\Debug\netstandard2.1\TypeLib.AssemblyInfoInputs.cache
+E:\kassörska (skärmprogrammet)\TypeLib\obj\Debug\netstandard2.1\TypeLib.AssemblyInfo.cs
+E:\kassörska (skärmprogrammet)\TypeLib\obj\Debug\netstandard2.1\TypeLib.dll
+E:\kassörska (skärmprogrammet)\TypeLib\obj\Debug\netstandard2.1\TypeLib.pdb
+C:\Users\melin\Desktop\kassörska (skärmprogrammet)\TypeLib\bin\Debug\netstandard2.1\TypeLib.deps.json
+C:\Users\melin\Desktop\kassörska (skärmprogrammet)\TypeLib\bin\Debug\netstandard2.1\TypeLib.dll
+C:\Users\melin\Desktop\kassörska (skärmprogrammet)\TypeLib\bin\Debug\netstandard2.1\TypeLib.pdb
+C:\Users\melin\Desktop\kassörska (skärmprogrammet)\TypeLib\obj\Debug\netstandard2.1\TypeLib.csprojAssemblyReference.cache
+C:\Users\melin\Desktop\kassörska (skärmprogrammet)\TypeLib\obj\Debug\netstandard2.1\TypeLib.AssemblyInfoInputs.cache
+C:\Users\melin\Desktop\kassörska (skärmprogrammet)\TypeLib\obj\Debug\netstandard2.1\TypeLib.AssemblyInfo.cs
+C:\Users\melin\Desktop\kassörska (skärmprogrammet)\TypeLib\obj\Debug\netstandard2.1\TypeLib.dll
+C:\Users\melin\Desktop\kassörska (skärmprogrammet)\TypeLib\obj\Debug\netstandard2.1\TypeLib.pdb
+C:\Users\melin\Desktop\Cashier2\TypeLib\bin\Debug\netstandard2.1\TypeLib.deps.json
+C:\Users\melin\Desktop\Cashier2\TypeLib\bin\Debug\netstandard2.1\TypeLib.dll
+C:\Users\melin\Desktop\Cashier2\TypeLib\bin\Debug\netstandard2.1\TypeLib.pdb
+C:\Users\melin\Desktop\Cashier2\TypeLib\obj\Debug\netstandard2.1\TypeLib.csprojAssemblyReference.cache
+C:\Users\melin\Desktop\Cashier2\TypeLib\obj\Debug\netstandard2.1\TypeLib.AssemblyInfoInputs.cache
+C:\Users\melin\Desktop\Cashier2\TypeLib\obj\Debug\netstandard2.1\TypeLib.AssemblyInfo.cs
+C:\Users\melin\Desktop\Cashier2\TypeLib\obj\Debug\netstandard2.1\TypeLib.dll
+C:\Users\melin\Desktop\Cashier2\TypeLib\obj\Debug\netstandard2.1\TypeLib.pdb
