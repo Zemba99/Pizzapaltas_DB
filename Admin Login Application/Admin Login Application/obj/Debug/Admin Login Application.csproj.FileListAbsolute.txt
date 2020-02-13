@@ -1,0 +1,112 @@
+C:\Users\marcu\source\repos\Admin Login Application\Admin Login Application\bin\Debug\Admin Login Application.exe.config
+C:\Users\marcu\source\repos\Admin Login Application\Admin Login Application\bin\Debug\Admin Login Application.exe
+C:\Users\marcu\source\repos\Admin Login Application\Admin Login Application\bin\Debug\Admin Login Application.pdb
+C:\Users\marcu\source\repos\Admin Login Application\Admin Login Application\bin\Debug\Dapper.dll
+C:\Users\marcu\source\repos\Admin Login Application\Admin Login Application\bin\Debug\MsRepository.dll
+C:\Users\marcu\source\repos\Admin Login Application\Admin Login Application\bin\Debug\System.Data.SqlClient.dll
+C:\Users\marcu\source\repos\Admin Login Application\Admin Login Application\bin\Debug\TypeLib.dll
+C:\Users\marcu\source\repos\Admin Login Application\Admin Login Application\bin\Debug\MsRepository.pdb
+C:\Users\marcu\source\repos\Admin Login Application\Admin Login Application\bin\Debug\TypeLib.pdb
+C:\Users\marcu\source\repos\Admin Login Application\Admin Login Application\bin\Debug\Dapper.xml
+C:\Users\marcu\source\repos\Admin Login Application\Admin Login Application\bin\Debug\System.Data.SqlClient.xml
+C:\Users\marcu\source\repos\Admin Login Application\Admin Login Application\obj\Debug\Admin Login Application.csprojAssemblyReference.cache
+C:\Users\marcu\source\repos\Admin Login Application\Admin Login Application\obj\Debug\Admin_Login_Application.frmBeverages.resources
+C:\Users\marcu\source\repos\Admin Login Application\Admin Login Application\obj\Debug\Admin_Login_Application.frmLogin.resources
+C:\Users\marcu\source\repos\Admin Login Application\Admin Login Application\obj\Debug\Admin_Login_Application.frmEmployee.resources
+C:\Users\marcu\source\repos\Admin Login Application\Admin Login Application\obj\Debug\Admin_Login_Application.frmMainMenu.resources
+C:\Users\marcu\source\repos\Admin Login Application\Admin Login Application\obj\Debug\Admin_Login_Application.frmPastas.resources
+C:\Users\marcu\source\repos\Admin Login Application\Admin Login Application\obj\Debug\Admin_Login_Application.frmPizzas.resources
+C:\Users\marcu\source\repos\Admin Login Application\Admin Login Application\obj\Debug\Admin_Login_Application.frmProducts.resources
+C:\Users\marcu\source\repos\Admin Login Application\Admin Login Application\obj\Debug\Admin_Login_Application.frmSallads.resources
+C:\Users\marcu\source\repos\Admin Login Application\Admin Login Application\obj\Debug\Admin_Login_Application.Properties.Resources.resources
+C:\Users\marcu\source\repos\Admin Login Application\Admin Login Application\obj\Debug\Admin Login Application.csproj.GenerateResource.cache
+C:\Users\marcu\source\repos\Admin Login Application\Admin Login Application\obj\Debug\Admin Login Application.csproj.CopyComplete
+C:\Users\marcu\source\repos\Admin Login Application\Admin Login Application\obj\Debug\Admin Login Application.exe
+C:\Users\marcu\source\repos\Admin Login Application\Admin Login Application\obj\Debug\Admin Login Application.pdb
+C:\Users\marcu\source\repos\Admin Login Application\Admin Login Application\obj\Debug\Admin_Login_Application.frmIngredients.resources
+C:\Users\marcu\source\repos\Admin Login Application\Admin Login Application\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\marcu\source\repos\Admin Login Application\Admin Login Application\bin\Debug\System.Security.AccessControl.dll
+C:\Users\marcu\source\repos\Admin Login Application\Admin Login Application\bin\Debug\System.Security.Permissions.dll
+C:\Users\marcu\source\repos\Admin Login Application\Admin Login Application\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\marcu\source\repos\Admin Login Application\Admin Login Application\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\marcu\source\repos\Admin Login Application\Admin Login Application\bin\Debug\System.Security.AccessControl.xml
+C:\Users\marcu\source\repos\Admin Login Application\Admin Login Application\bin\Debug\System.Security.Permissions.xml
+C:\Users\marcu\source\repos\Admin Login Application\Admin Login Application\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\marcu\source\repos\Admin Login Application\Admin Login Application\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\marcu\source\repos\Admin Login Application\Admin Login Application\bin\Debug\Npgsql.dll
+C:\Users\marcu\source\repos\Admin Login Application\Admin Login Application\bin\Debug\System.Buffers.dll
+C:\Users\marcu\source\repos\Admin Login Application\Admin Login Application\bin\Debug\System.Memory.dll
+C:\Users\marcu\source\repos\Admin Login Application\Admin Login Application\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\marcu\source\repos\Admin Login Application\Admin Login Application\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\marcu\source\repos\Admin Login Application\Admin Login Application\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\marcu\source\repos\Admin Login Application\Admin Login Application\bin\Debug\System.Text.Json.dll
+C:\Users\marcu\source\repos\Admin Login Application\Admin Login Application\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\marcu\source\repos\Admin Login Application\Admin Login Application\bin\Debug\System.ValueTuple.dll
+C:\Users\marcu\source\repos\Admin Login Application\Admin Login Application\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\marcu\source\repos\Admin Login Application\Admin Login Application\bin\Debug\Npgsql.pdb
+C:\Users\marcu\source\repos\Admin Login Application\Admin Login Application\bin\Debug\Npgsql.xml
+C:\Users\marcu\source\repos\Admin Login Application\Admin Login Application\bin\Debug\System.Buffers.xml
+C:\Users\marcu\source\repos\Admin Login Application\Admin Login Application\bin\Debug\System.Memory.xml
+C:\Users\marcu\source\repos\Admin Login Application\Admin Login Application\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\marcu\source\repos\Admin Login Application\Admin Login Application\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\marcu\source\repos\Admin Login Application\Admin Login Application\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\marcu\source\repos\Admin Login Application\Admin Login Application\bin\Debug\System.Text.Json.xml
+C:\Users\marcu\source\repos\Admin Login Application\Admin Login Application\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\marcu\source\repos\Admin Login Application\Admin Login Application\bin\Debug\System.ValueTuple.xml
+C:\Users\marcu\source\repos\Admin Login Application\Admin Login Application\obj\Debug\Admin_Login_Application.frmDataBases.resources
+C:\Users\melin\Documents\GitHub\Pizzapaltas_DB\Admin Login Application\Admin Login Application\obj\Debug\Admin Login Application.exe
+C:\Users\melin\Documents\GitHub\Pizzapaltas_DB\Admin Login Application\Admin Login Application\obj\Debug\Admin Login Application.pdb
+C:\Users\melin\Documents\GitHub\Pizzapaltas_DB\Admin Login Application\Admin Login Application\bin\Debug\Admin Login Application.exe.config
+C:\Users\melin\Documents\GitHub\Pizzapaltas_DB\Admin Login Application\Admin Login Application\bin\Debug\Admin Login Application.exe
+C:\Users\melin\Documents\GitHub\Pizzapaltas_DB\Admin Login Application\Admin Login Application\bin\Debug\Admin Login Application.pdb
+C:\Users\melin\Documents\GitHub\Pizzapaltas_DB\Admin Login Application\Admin Login Application\bin\Debug\Dapper.dll
+C:\Users\melin\Documents\GitHub\Pizzapaltas_DB\Admin Login Application\Admin Login Application\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\melin\Documents\GitHub\Pizzapaltas_DB\Admin Login Application\Admin Login Application\bin\Debug\MsRepository.dll
+C:\Users\melin\Documents\GitHub\Pizzapaltas_DB\Admin Login Application\Admin Login Application\bin\Debug\Npgsql.dll
+C:\Users\melin\Documents\GitHub\Pizzapaltas_DB\Admin Login Application\Admin Login Application\bin\Debug\System.Buffers.dll
+C:\Users\melin\Documents\GitHub\Pizzapaltas_DB\Admin Login Application\Admin Login Application\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\melin\Documents\GitHub\Pizzapaltas_DB\Admin Login Application\Admin Login Application\bin\Debug\System.Data.SqlClient.dll
+C:\Users\melin\Documents\GitHub\Pizzapaltas_DB\Admin Login Application\Admin Login Application\bin\Debug\System.Memory.dll
+C:\Users\melin\Documents\GitHub\Pizzapaltas_DB\Admin Login Application\Admin Login Application\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\melin\Documents\GitHub\Pizzapaltas_DB\Admin Login Application\Admin Login Application\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\melin\Documents\GitHub\Pizzapaltas_DB\Admin Login Application\Admin Login Application\bin\Debug\System.Security.AccessControl.dll
+C:\Users\melin\Documents\GitHub\Pizzapaltas_DB\Admin Login Application\Admin Login Application\bin\Debug\System.Security.Permissions.dll
+C:\Users\melin\Documents\GitHub\Pizzapaltas_DB\Admin Login Application\Admin Login Application\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\melin\Documents\GitHub\Pizzapaltas_DB\Admin Login Application\Admin Login Application\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\melin\Documents\GitHub\Pizzapaltas_DB\Admin Login Application\Admin Login Application\bin\Debug\System.Text.Json.dll
+C:\Users\melin\Documents\GitHub\Pizzapaltas_DB\Admin Login Application\Admin Login Application\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\melin\Documents\GitHub\Pizzapaltas_DB\Admin Login Application\Admin Login Application\bin\Debug\System.ValueTuple.dll
+C:\Users\melin\Documents\GitHub\Pizzapaltas_DB\Admin Login Application\Admin Login Application\bin\Debug\TypeLib.dll
+C:\Users\melin\Documents\GitHub\Pizzapaltas_DB\Admin Login Application\Admin Login Application\bin\Debug\MsRepository.pdb
+C:\Users\melin\Documents\GitHub\Pizzapaltas_DB\Admin Login Application\Admin Login Application\bin\Debug\TypeLib.pdb
+C:\Users\melin\Documents\GitHub\Pizzapaltas_DB\Admin Login Application\Admin Login Application\bin\Debug\Dapper.xml
+C:\Users\melin\Documents\GitHub\Pizzapaltas_DB\Admin Login Application\Admin Login Application\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\melin\Documents\GitHub\Pizzapaltas_DB\Admin Login Application\Admin Login Application\bin\Debug\Npgsql.pdb
+C:\Users\melin\Documents\GitHub\Pizzapaltas_DB\Admin Login Application\Admin Login Application\bin\Debug\Npgsql.xml
+C:\Users\melin\Documents\GitHub\Pizzapaltas_DB\Admin Login Application\Admin Login Application\bin\Debug\System.Buffers.xml
+C:\Users\melin\Documents\GitHub\Pizzapaltas_DB\Admin Login Application\Admin Login Application\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\melin\Documents\GitHub\Pizzapaltas_DB\Admin Login Application\Admin Login Application\bin\Debug\System.Data.SqlClient.xml
+C:\Users\melin\Documents\GitHub\Pizzapaltas_DB\Admin Login Application\Admin Login Application\bin\Debug\System.Memory.xml
+C:\Users\melin\Documents\GitHub\Pizzapaltas_DB\Admin Login Application\Admin Login Application\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\melin\Documents\GitHub\Pizzapaltas_DB\Admin Login Application\Admin Login Application\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\melin\Documents\GitHub\Pizzapaltas_DB\Admin Login Application\Admin Login Application\bin\Debug\System.Security.AccessControl.xml
+C:\Users\melin\Documents\GitHub\Pizzapaltas_DB\Admin Login Application\Admin Login Application\bin\Debug\System.Security.Permissions.xml
+C:\Users\melin\Documents\GitHub\Pizzapaltas_DB\Admin Login Application\Admin Login Application\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\melin\Documents\GitHub\Pizzapaltas_DB\Admin Login Application\Admin Login Application\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\melin\Documents\GitHub\Pizzapaltas_DB\Admin Login Application\Admin Login Application\bin\Debug\System.Text.Json.xml
+C:\Users\melin\Documents\GitHub\Pizzapaltas_DB\Admin Login Application\Admin Login Application\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\melin\Documents\GitHub\Pizzapaltas_DB\Admin Login Application\Admin Login Application\bin\Debug\System.ValueTuple.xml
+C:\Users\melin\Documents\GitHub\Pizzapaltas_DB\Admin Login Application\Admin Login Application\obj\Debug\Admin Login Application.csprojAssemblyReference.cache
+C:\Users\melin\Documents\GitHub\Pizzapaltas_DB\Admin Login Application\Admin Login Application\obj\Debug\Admin_Login_Application.frmBeverages.resources
+C:\Users\melin\Documents\GitHub\Pizzapaltas_DB\Admin Login Application\Admin Login Application\obj\Debug\Admin_Login_Application.frmDataBases.resources
+C:\Users\melin\Documents\GitHub\Pizzapaltas_DB\Admin Login Application\Admin Login Application\obj\Debug\Admin_Login_Application.frmIngredients.resources
+C:\Users\melin\Documents\GitHub\Pizzapaltas_DB\Admin Login Application\Admin Login Application\obj\Debug\Admin_Login_Application.frmLogin.resources
+C:\Users\melin\Documents\GitHub\Pizzapaltas_DB\Admin Login Application\Admin Login Application\obj\Debug\Admin_Login_Application.frmEmployee.resources
+C:\Users\melin\Documents\GitHub\Pizzapaltas_DB\Admin Login Application\Admin Login Application\obj\Debug\Admin_Login_Application.frmMainMenu.resources
+C:\Users\melin\Documents\GitHub\Pizzapaltas_DB\Admin Login Application\Admin Login Application\obj\Debug\Admin_Login_Application.frmPastas.resources
+C:\Users\melin\Documents\GitHub\Pizzapaltas_DB\Admin Login Application\Admin Login Application\obj\Debug\Admin_Login_Application.frmPizzas.resources
+C:\Users\melin\Documents\GitHub\Pizzapaltas_DB\Admin Login Application\Admin Login Application\obj\Debug\Admin_Login_Application.frmProducts.resources
+C:\Users\melin\Documents\GitHub\Pizzapaltas_DB\Admin Login Application\Admin Login Application\obj\Debug\Admin_Login_Application.frmSallads.resources
+C:\Users\melin\Documents\GitHub\Pizzapaltas_DB\Admin Login Application\Admin Login Application\obj\Debug\Admin_Login_Application.Properties.Resources.resources
+C:\Users\melin\Documents\GitHub\Pizzapaltas_DB\Admin Login Application\Admin Login Application\obj\Debug\Admin Login Application.csproj.GenerateResource.cache
+C:\Users\melin\Documents\GitHub\Pizzapaltas_DB\Admin Login Application\Admin Login Application\obj\Debug\Admin Login Application.csproj.CopyComplete

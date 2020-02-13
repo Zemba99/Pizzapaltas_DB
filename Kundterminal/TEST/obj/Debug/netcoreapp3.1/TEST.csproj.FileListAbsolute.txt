@@ -1,0 +1,12 @@
+C:\Users\simon\source\repos\TEST\TEST\bin\Debug\netcoreapp3.1\TEST.exe
+C:\Users\simon\source\repos\TEST\TEST\obj\Debug\netcoreapp3.1\TEST.csprojAssemblyReference.cache
+C:\Users\simon\source\repos\TEST\TEST\obj\Debug\netcoreapp3.1\TEST.AssemblyInfoInputs.cache
+C:\Users\simon\source\repos\TEST\TEST\obj\Debug\netcoreapp3.1\TEST.AssemblyInfo.cs
+C:\Users\simon\source\repos\TEST\TEST\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\simon\source\repos\TEST\TEST\obj\Debug\netcoreapp3.1\TEST.csproj.CopyComplete
+C:\Users\simon\source\repos\TEST\TEST\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\simon\source\repos\TEST\TEST\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\simon\source\repos\TEST\TEST\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\simon\source\repos\TEST\TEST\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\simon\source\repos\TEST\TEST\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\simon\source\repos\TEST\TEST\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
