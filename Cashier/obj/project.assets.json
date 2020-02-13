@@ -1044,11 +1044,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\melin\\Desktop\\Cashier2\\Cashier\\Cashier.csproj",
+      "projectUniqueName": "C:\\Users\\melin\\Documents\\GitHub\\Pizzapaltas_DB\\Cashier\\Cashier.csproj",
       "projectName": "Cashier",
-      "projectPath": "C:\\Users\\melin\\Desktop\\Cashier2\\Cashier\\Cashier.csproj",
+      "projectPath": "C:\\Users\\melin\\Documents\\GitHub\\Pizzapaltas_DB\\Cashier\\Cashier.csproj",
       "packagesPath": "C:\\Users\\melin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\melin\\Desktop\\Cashier2\\Cashier\\obj\\",
+      "outputPath": "C:\\Users\\melin\\Documents\\GitHub\\Pizzapaltas_DB\\Cashier\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\melin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1064,11 +1064,11 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "C:\\Users\\melin\\Desktop\\Cashier2\\MsRepository\\MsRepository.csproj": {
-              "projectPath": "C:\\Users\\melin\\Desktop\\Cashier2\\MsRepository\\MsRepository.csproj"
+            "C:\\Users\\melin\\Documents\\GitHub\\Pizzapaltas_DB\\MsRepository\\MsRepository.csproj": {
+              "projectPath": "C:\\Users\\melin\\Documents\\GitHub\\Pizzapaltas_DB\\MsRepository\\MsRepository.csproj"
             },
-            "C:\\Users\\melin\\Desktop\\Cashier2\\TypeLib\\TypeLib.csproj": {
-              "projectPath": "C:\\Users\\melin\\Desktop\\Cashier2\\TypeLib\\TypeLib.csproj"
+            "C:\\Users\\melin\\Documents\\GitHub\\Pizzapaltas_DB\\TypeLib\\TypeLib.csproj": {
+              "projectPath": "C:\\Users\\melin\\Documents\\GitHub\\Pizzapaltas_DB\\TypeLib\\TypeLib.csproj"
             }
           }
         }

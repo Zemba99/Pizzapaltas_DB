@@ -1118,11 +1118,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\melin\\Desktop\\Cashier2\\TypeLib\\TypeLib.csproj",
+      "projectUniqueName": "C:\\Users\\melin\\Documents\\GitHub\\Pizzapaltas_DB\\TypeLib\\TypeLib.csproj",
       "projectName": "TypeLib",
-      "projectPath": "C:\\Users\\melin\\Desktop\\Cashier2\\TypeLib\\TypeLib.csproj",
+      "projectPath": "C:\\Users\\melin\\Documents\\GitHub\\Pizzapaltas_DB\\TypeLib\\TypeLib.csproj",
       "packagesPath": "C:\\Users\\melin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\melin\\Desktop\\Cashier2\\TypeLib\\obj\\",
+      "outputPath": "C:\\Users\\melin\\Documents\\GitHub\\Pizzapaltas_DB\\TypeLib\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\melin\\AppData\\Roaming\\NuGet\\NuGet.Config",

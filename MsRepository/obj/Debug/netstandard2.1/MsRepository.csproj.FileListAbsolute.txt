@@ -31,3 +31,14 @@ C:\Users\melin\Desktop\Cashier2\MsRepository\obj\Debug\netstandard2.1\MsReposito
 C:\Users\melin\Desktop\Cashier2\MsRepository\obj\Debug\netstandard2.1\MsRepository.csproj.CopyComplete
 C:\Users\melin\Desktop\Cashier2\MsRepository\obj\Debug\netstandard2.1\MsRepository.dll
 C:\Users\melin\Desktop\Cashier2\MsRepository\obj\Debug\netstandard2.1\MsRepository.pdb
+C:\Users\melin\Documents\GitHub\Pizzapaltas_DB\MsRepository\bin\Debug\netstandard2.1\MsRepository.deps.json
+C:\Users\melin\Documents\GitHub\Pizzapaltas_DB\MsRepository\bin\Debug\netstandard2.1\MsRepository.dll
+C:\Users\melin\Documents\GitHub\Pizzapaltas_DB\MsRepository\bin\Debug\netstandard2.1\MsRepository.pdb
+C:\Users\melin\Documents\GitHub\Pizzapaltas_DB\MsRepository\bin\Debug\netstandard2.1\TypeLib.dll
+C:\Users\melin\Documents\GitHub\Pizzapaltas_DB\MsRepository\bin\Debug\netstandard2.1\TypeLib.pdb
+C:\Users\melin\Documents\GitHub\Pizzapaltas_DB\MsRepository\obj\Debug\netstandard2.1\MsRepository.csprojAssemblyReference.cache
+C:\Users\melin\Documents\GitHub\Pizzapaltas_DB\MsRepository\obj\Debug\netstandard2.1\MsRepository.AssemblyInfoInputs.cache
+C:\Users\melin\Documents\GitHub\Pizzapaltas_DB\MsRepository\obj\Debug\netstandard2.1\MsRepository.AssemblyInfo.cs
+C:\Users\melin\Documents\GitHub\Pizzapaltas_DB\MsRepository\obj\Debug\netstandard2.1\MsRepository.csproj.CopyComplete
+C:\Users\melin\Documents\GitHub\Pizzapaltas_DB\MsRepository\obj\Debug\netstandard2.1\MsRepository.dll
+C:\Users\melin\Documents\GitHub\Pizzapaltas_DB\MsRepository\obj\Debug\netstandard2.1\MsRepository.pdb

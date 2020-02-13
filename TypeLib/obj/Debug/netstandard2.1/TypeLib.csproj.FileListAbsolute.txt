@@ -21,3 +21,11 @@ C:\Users\melin\Desktop\Cashier2\TypeLib\obj\Debug\netstandard2.1\TypeLib.Assembl
 C:\Users\melin\Desktop\Cashier2\TypeLib\obj\Debug\netstandard2.1\TypeLib.AssemblyInfo.cs
 C:\Users\melin\Desktop\Cashier2\TypeLib\obj\Debug\netstandard2.1\TypeLib.dll
 C:\Users\melin\Desktop\Cashier2\TypeLib\obj\Debug\netstandard2.1\TypeLib.pdb
+C:\Users\melin\Documents\GitHub\Pizzapaltas_DB\TypeLib\bin\Debug\netstandard2.1\TypeLib.deps.json
+C:\Users\melin\Documents\GitHub\Pizzapaltas_DB\TypeLib\bin\Debug\netstandard2.1\TypeLib.dll
+C:\Users\melin\Documents\GitHub\Pizzapaltas_DB\TypeLib\bin\Debug\netstandard2.1\TypeLib.pdb
+C:\Users\melin\Documents\GitHub\Pizzapaltas_DB\TypeLib\obj\Debug\netstandard2.1\TypeLib.csprojAssemblyReference.cache
+C:\Users\melin\Documents\GitHub\Pizzapaltas_DB\TypeLib\obj\Debug\netstandard2.1\TypeLib.AssemblyInfoInputs.cache
+C:\Users\melin\Documents\GitHub\Pizzapaltas_DB\TypeLib\obj\Debug\netstandard2.1\TypeLib.AssemblyInfo.cs
+C:\Users\melin\Documents\GitHub\Pizzapaltas_DB\TypeLib\obj\Debug\netstandard2.1\TypeLib.dll
+C:\Users\melin\Documents\GitHub\Pizzapaltas_DB\TypeLib\obj\Debug\netstandard2.1\TypeLib.pdb
