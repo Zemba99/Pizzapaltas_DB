@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\simon\\source\\repos\\TEST\\TEST\\PizzaDbFix.csproj": {}
+    "C:\\Users\\melin\\Documents\\GitHub\\Pizzapaltas_DB\\Kundterminal\\TEST\\PizzaDbFix.csproj": {}
   },
   "projects": {
-    "C:\\Users\\simon\\source\\repos\\TEST\\TEST\\PizzaDbFix.csproj": {
+    "C:\\Users\\melin\\Documents\\GitHub\\Pizzapaltas_DB\\Kundterminal\\TEST\\PizzaDbFix.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\simon\\source\\repos\\TEST\\TEST\\PizzaDbFix.csproj",
+        "projectUniqueName": "C:\\Users\\melin\\Documents\\GitHub\\Pizzapaltas_DB\\Kundterminal\\TEST\\PizzaDbFix.csproj",
         "projectName": "PizzaDbFix",
-        "projectPath": "C:\\Users\\simon\\source\\repos\\TEST\\TEST\\PizzaDbFix.csproj",
-        "packagesPath": "C:\\Users\\simon\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\simon\\source\\repos\\TEST\\TEST\\obj\\",
+        "projectPath": "C:\\Users\\melin\\Documents\\GitHub\\Pizzapaltas_DB\\Kundterminal\\TEST\\PizzaDbFix.csproj",
+        "packagesPath": "C:\\Users\\melin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\melin\\Documents\\GitHub\\Pizzapaltas_DB\\Kundterminal\\TEST\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\simon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\melin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

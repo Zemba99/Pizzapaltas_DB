@@ -20,3 +20,8 @@ C:\Users\simon\source\repos\TEST\TEST\bin\Debug\netcoreapp3.1\TypeLib.dll
 C:\Users\simon\source\repos\TEST\TEST\obj\Debug\netcoreapp3.1\PizzaDbFix.csproj.CopyComplete
 C:\Users\simon\source\repos\TEST\TEST\obj\Debug\netcoreapp3.1\PizzaDbFix.dll
 C:\Users\simon\source\repos\TEST\TEST\obj\Debug\netcoreapp3.1\PizzaDbFix.pdb
+C:\Users\melin\Documents\GitHub\Pizzapaltas_DB\Kundterminal\TEST\obj\Debug\netcoreapp3.1\PizzaDbFix.csprojAssemblyReference.cache
+C:\Users\melin\Documents\GitHub\Pizzapaltas_DB\Kundterminal\TEST\obj\Debug\netcoreapp3.1\PizzaDbFix.AssemblyInfoInputs.cache
+C:\Users\melin\Documents\GitHub\Pizzapaltas_DB\Kundterminal\TEST\obj\Debug\netcoreapp3.1\PizzaDbFix.AssemblyInfo.cs
+C:\Users\melin\Documents\GitHub\Pizzapaltas_DB\Kundterminal\TEST\obj\Debug\netcoreapp3.1\PizzaDbFix.dll
+C:\Users\melin\Documents\GitHub\Pizzapaltas_DB\Kundterminal\TEST\obj\Debug\netcoreapp3.1\PizzaDbFix.pdb

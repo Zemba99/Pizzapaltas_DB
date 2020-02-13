@@ -13,10 +13,10 @@
 
   <ItemGroup>
     <Reference Include="MsRepository">
-      <HintPath>..\..\..\..\Desktop\Dll\MsRepository.dll</HintPath>
+      <HintPath>..\..\Lib\MsRepository\obj\Debug\netstandard2.1\MsRepository.dll</HintPath>
     </Reference>
     <Reference Include="TypeLib">
-      <HintPath>..\..\..\..\Desktop\Dll\TypeLib.dll</HintPath>
+      <HintPath>..\..\Lib\TypeLib\obj\Debug\netstandard2.1\TypeLib.dll</HintPath>
     </Reference>
   </ItemGroup>
 
